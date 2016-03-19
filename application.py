@@ -9,6 +9,7 @@ response = """
 </head>
 <body>
 <h1>AWS CI/CD Demo</h1>
+<p>Trying the demo app<p>
 </body>
 </html>
 """
